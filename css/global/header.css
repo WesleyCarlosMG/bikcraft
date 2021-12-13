@@ -4,14 +4,11 @@
 
 .header {
   align-items: center;
-  box-sizing: border-box;
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
   justify-content: space-between;
-  margin: 0 auto;
-  max-width: 1200px;
-  padding: 20px;
+  padding: 20px 0;
 }
 
 .header-menu {
